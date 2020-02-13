@@ -1,0 +1,16 @@
+2020-02-13 20:20:04,842 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-02-13 20:35:02,363 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.validando.crud.br:validandoCruds:0.0.1-SNAPSHOT @ C:\programasFazendo\pro3\validandoCruds\pom.xml.
+2020-02-13 20:35:10,459 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /validandoCruds/src/main/java
+2020-02-13 20:35:10,460 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /validandoCruds/src/main/resources
+2020-02-13 20:35:10,502 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /validandoCruds/src/main/resources
+2020-02-13 20:35:10,543 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /validandoCruds/src/test/java
+2020-02-13 20:35:16,919 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 23 sec
+2020-02-13 20:35:16,923 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-02-13 20:35:17,660 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.validando.crud.br:validandoCruds:0.0.1-SNAPSHOT @ C:\programasFazendo\pro3\validandoCruds\pom.xml.
+2020-02-13 20:35:19,059 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /validandoCruds/src/main/java
+2020-02-13 20:35:19,060 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /validandoCruds/src/main/resources
+2020-02-13 20:35:19,061 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /validandoCruds/src/main/resources
+2020-02-13 20:35:19,062 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /validandoCruds/src/test/java
+2020-02-13 20:35:19,713 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-02-13 20:35:21,394 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-13 20:35:21,400 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
