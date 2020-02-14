@@ -1,0 +1,5 @@
+package com.validando.crud.br.services.serviceImpl;
+
+public interface CategoriaServiceImpl implementsCategoriaService{
+
+}

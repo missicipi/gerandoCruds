@@ -1,0 +1,9 @@
+package com.validando.crud.br.Repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.validando.crud.br.domain.Categoria;
+
+public interface CategoriaRepository extends JpaRepository <Categoria, Integer>{
+
+}

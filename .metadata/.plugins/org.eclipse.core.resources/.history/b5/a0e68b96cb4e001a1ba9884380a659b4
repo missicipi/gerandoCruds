@@ -1,0 +1,5 @@
+package com.validando.crud.br.Repository;
+
+public interface MarcaRepository {
+
+}
